@@ -49,7 +49,7 @@ Each exercise focuses on a specific OOP or data structure concept — useful for
    cd python-DSA-tests
 
 
-##License
+## License
 
 ---
 Would you like me to make it more **exam-style**, with short task instructions and no example code (for student submissions)?
